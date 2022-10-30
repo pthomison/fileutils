@@ -1,5 +1,7 @@
 github.com/pthomison/errcheck v0.0.1 h1:kNM+1enjd9/DcNgVjdCMnkk0p5ApMPOUWcEHQ5M5cIQ=
 github.com/pthomison/errcheck v0.0.1/go.mod h1:vdRyOpyBi1XWzIJXe+8V+0/V4xPlFmlJVsIVpGxzylA=
+github.com/pthomison/errcheck v0.0.2 h1:+QWX+1NNQNiT9bJdz5iPPFStvdxelx2sP3Why7+bR+A=
+github.com/pthomison/errcheck v0.0.2/go.mod h1:vdRyOpyBi1XWzIJXe+8V+0/V4xPlFmlJVsIVpGxzylA=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
